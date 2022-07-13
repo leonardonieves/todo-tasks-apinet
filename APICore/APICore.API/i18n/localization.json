@@ -1,0 +1,41 @@
+[ //NotFound
+  {
+    "Key": "404",
+    "LocalizedValue": {
+      "en-US": "Resource not found.",
+      "es-ES": "Recurso no encontrado."
+    }
+  },
+  {
+    "Key": "404001",
+    "LocalizedValue": {
+      "en-US": "Task not found.",
+      "es-ES": "Tarea no encontrada."
+    }
+  },
+  //RequestTimeout
+  {
+    "Key": "408",
+    "LocalizedValue": {
+      "en-US": "Request timeout.",
+      "es-ES": "Tiempo de espera agotado."
+    }
+  },
+  //UnsupportedMediaType
+  {
+    "Key": "415",
+    "LocalizedValue": {
+      "en-US": "Unsupported media type.",
+      "es-ES": "Tipo no soportado."
+    }
+  },
+  //InternalServerError
+  {
+    "Key": "500",
+    "LocalizedValue": {
+      "en-US": "Internal server error.",
+      "es-ES": "Error interno del servidor."
+    }
+  }
+
+]
