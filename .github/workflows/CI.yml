@@ -1,13 +1,13 @@
 name: CI
 
- on:
-   push:
-     branches:
-     - master
-     - release/*
+on:
+  push:
+    branches:
+    - master
+    - release/*
 
- jobs:
-   build_telegramjobs:
+jobs:
+   build:
      runs-on: ubuntu-latest
      steps:
      - uses: actions/checkout@v1
